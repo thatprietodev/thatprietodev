@@ -2,7 +2,7 @@
 
 ```javascript
 const prietodev = {
-  name: 'Martin Prieto'
+  name: 'Martin Prieto',
   languares: 'Javascript, Python, C++'
 }
 ```
